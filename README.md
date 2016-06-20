@@ -1,0 +1,17 @@
+click==6.6
+eventlet==0.19.0
+Flask==0.11.1
+Flask-SocketIO==2.4
+freeze==1.0.10
+gevent==1.1.1
+gevent-websocket==0.9.5
+greenlet==0.4.10
+gunicorn==0.16.1
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+python-engineio==0.9.1
+python-socketio==1.3
+six==1.10.0
+uuid==1.30
+Werkzeug==0.11.10
